@@ -1,4 +1,4 @@
-# Module 3: Collaborative Tools
+# Module 3: Instroduction to Collaborative Tools in GitHub
 
 Welcome to Module 3 of the GitHub for Federal Contracting Course, presented by SerVet Digital, LLC. This module focuses on the collaborative tools available in GitHub, which are essential for working efficiently on team-based federal contracting projects.
 
