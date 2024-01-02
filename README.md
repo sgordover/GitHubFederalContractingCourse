@@ -16,7 +16,7 @@ This comprehensive course is structured into seven modules, each focusing on dif
   - Dive into creating and managing repositories, essential for any project on GitHub.
   - Understand branching strategies, repository organization, and access controls.
 
-- **Module 3: Collaborative Tools**
+- **Module 3: Instroduction to Collaborative Tools in GitHub**
   - Explore GitHub's collaborative tools like issues, pull requests, and actions.
   - Learn how these tools can enhance team collaboration and streamline project workflows.
 
