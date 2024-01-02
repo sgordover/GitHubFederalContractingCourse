@@ -53,4 +53,4 @@ We at SerVet Digital, LLC are committed to providing you with a valuable and imp
 
 ---
 
-For more information about SerVet Digital, LLC and additional resources, visit [SerVet Digital, LLC website](#).
+For more information about SerVet Digital, LLC and additional resources, visit [SerVet Digital, LLC website](www.servetdigital.com).
