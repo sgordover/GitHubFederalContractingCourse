@@ -11,7 +11,6 @@ Welcome to Module 3 of the GitHub for Federal Contracting Course, presented by S
 
 ## Activities
 
-- Participate in a group activity designed to simulate real-life collaboration on GitHub.
-- Create a basic workflow using GitHub Actions, understanding the automation potential it brings to your projects.
+- Lab excercise to simulate collaboration in GitHub
 
 SerVet Digital, LLC is committed to providing you with practical, hands-on learning experiences. This module will equip you with the collaborative skills needed to excel in any project environment, especially within the federal contracting sector.
