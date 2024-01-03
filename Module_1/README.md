@@ -11,7 +11,6 @@ Welcome to Module 1 of the GitHub for Federal Contracting Course, presented by S
 
 ## Activities
 
-- Engage with an interactive video that highlights GitHub's role in federal contracting.
-- Complete a quiz to test your understanding of the module's key concepts.
+- Q&A with learners regarding experiences.
 
 We at SerVet Digital, LLC are excited to guide you through this module and look forward to enhancing your skills and understanding of GitHub's role in federal contracting.
