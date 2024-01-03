@@ -50,5 +50,4 @@ Begin your journey by navigating to the `Module_1` directory and reviewing the R
 We at SerVet Digital, LLC are committed to providing you with a valuable and impactful learning experience. We are excited to guide you through mastering GitHub for your federal contracting needs!
 
 ---
-
-For more information about SerVet Digital, LLC and additional resources, visit [SerVet Digital, LLC website](#www.servetdigital.com).
+- Provided by SerVet Digital,LLC.
