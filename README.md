@@ -40,9 +40,7 @@ This comprehensive course is structured into seven modules, each focusing on dif
 
 Each folder in this repository corresponds to a module in the course, containing all the necessary materials for your learning:
 
-- **Slides/**: Presentations outlining the module's key concepts and information.
-- **Exercises/**: Interactive exercises designed to reinforce the learning objectives.
-- **Case_Studies/**: In-depth analyses of real-world applications and scenarios.
+- **Module x Lab**: Interactive exercises designed to reinforce the learning objectives.
 - **README.md**: A detailed guide on the module's contents, learning objectives, and activities.
 
 ## Getting Started
